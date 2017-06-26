@@ -24,3 +24,4 @@ type Mutation {
 
 const schema = makeExecutableSchema({ typeDefs, resolvers });
 export { schema };
+
